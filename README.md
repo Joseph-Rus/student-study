@@ -2,6 +2,15 @@
 
 A modern Kahoot-style quiz application that combines live multiplayer gaming with solo study features, powered by AI-generated content. Built with Next.js 15, React 19, TypeScript, and Firebase.
 
+Homepage
+
+<img width="1456" height="832" alt="image" src="https://github.com/user-attachments/assets/e0ec385b-df48-417b-9b4f-f93a09d36c93" />
+
+Dashboard
+
+<img width="1456" height="832" alt="image" src="https://github.com/user-attachments/assets/022cf97e-af05-4484-950b-d19843042610" />
+
+
 ## Features
 
 ### Game Modes
